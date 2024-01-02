@@ -5,10 +5,10 @@ Each element, corresponding to a digit of the number, multiplied by a power of 1
 
 Examples
 <br>
-56	--->      "5*10+6"
+56	--->      "5x10+6"
 <br>
-60	--->      "6*10"
+60	--->      "6x10"
 <br>
-999	 --->     "9*100+9*10+9"
+999	 --->     "9x100+9x10+9"
 <br>
-10004	--->    "1*10000+4"
+10004	--->    "1x10000x4"
