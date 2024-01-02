@@ -5,9 +5,10 @@ Each element, corresponding to a digit of the number, multiplied by a power of 1
 
 Examples
 <br>
-Input	    Output
-0	        ""
-56	      "5*10+6"
-60	      "6*10"
-999	      "9*100+9*10+9"
-10004	    "1*10000+4"
+56	--->      "5*10+6"
+<br>
+60	--->      "6*10"
+<br>
+999	 --->     "9*100+9*10+9"
+<br>
+10004	--->    "1*10000+4"
